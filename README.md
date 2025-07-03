@@ -1,10 +1,17 @@
-[⚠️ Suspicious Content] <!-- 
-Hello, fellow developer! 
-This README was designed to be clean, modern, and scannable.
-It prioritizes visual hierarchy and impact to showcase skills and projects effectively.
-Feel free to be inspired by this layout! 
--->
+<div align="center">
 
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║   █████╗ ██████╗ ██████╗ ██╗   ██╗�██╗  ██╗██╗   ██╗███████╗                ║
+║  ██╔══██╗██╔══██╗██╔══██╗██║   ██║██║  ██║██║   ██║██╔════╝                ║
+║  ███████║██████╔╝██████╔╝██║   ██║███████║██║   ██║█████╗                  ║
+║  ██╔══██║██╔══██╗██╔══██╗██║   ██║██╔══██║██║   ██║██╔══╝                  ║
+║  ██║  ██║██║  ██║██████╔╝╚██████╔╝██║  ██║╚██████╔╝███████╗                ║
+║  ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝                ║
+║                                                                              ║
+║           🚀 FULL-STACK DEVELOPER | CLOUD ENTHUSIAST | TECH INNOVATOR 🚀     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=300§ion=header&text=Abdullah%20Ademi&fontSize=70&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20Cloud%20Enthusiast%20%7C%20AI%20Pioneer&descAlignY=51&descAlign=62" alt="Header Banner"/>
 </div>
