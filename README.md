@@ -1,101 +1,32 @@
+<h1 align="center">Hi 👋, I'm Abdullah Ademi</h1>
+<h3 align="center">A passionate Full-Stack Developer, Junior Software Engineer.</h3>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=300§ion=header&text=Abdullah%20Ademi&fontSize=70&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20Cloud%20Enthusiast%20%7C%20AI%20Pioneer&descAlignY=51&descAlign=62" alt="Header Banner"/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah1053&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah1053" /> </p>
 
-<div align="center">
-  <a href="mailto:husseinadq2@gmail.com"><img src="https://img.shields.io/badge/Gmail-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hussein-al-mansouri-825a64292/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Husseinadq"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah1053" alt="abdullah1053" /></a> </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF¢er=true&vCenter=true&multiline=true&width=500&height=70&lines=Building+Scalable+Solutions+with+Laravel+%26+Vue.js;Architecting+Cloud+Infrastructure+on+AWS;Integrating+AI+to+Automate+and+Innovate" alt="Typing SVG" />
-</div>
+- 🔭 I’m currently working on [Mailu Self Email Hosting Service.](https://github.com/Abdullah1053/mailu-config.git)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=husseinadq&label=PROFILE%20VIEWS&color=00D4FF&style=for-the-badge" alt="husseinadq" />
-</div>
+- 🌱 I’m currently learning **Docker , Nextjs , TypeScript**
 
----
+- 👨‍💻 All of my projects are available at [https://abdullah1053.github.io/](https://abdullah1053.github.io/)
 
-### Hi there 👋, I'm Abdullah!
+- 💬 Ask me about **Flutter , Laravel , React , Vue.**
 
+- 📫 How to reach me **Abdullah.mughni1999@gmail.com**
 
-I am a results-oriented **Full-Stack Developer** from Saudi Arabia 🇸🇦 with a passion for transforming complex problems into elegant, scalable software solutions. With a strong foundation in **PHP/Laravel** and **Vue.js**, I specialize in building AI-powered platforms and architecting robust cloud infrastructure on **AWS**. My mission is to build the future, one line of code at a time.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-xv1N6n2kfxmnLq53RNQsymVvCPABuHy/view?usp=sharing](https://drive.google.com/file/d/1-xv1N6n2kfxmnLq53RNQsymVvCPABuHy/view?usp=sharing)
 
-- 🧠 **Currently:** Developing an AI-powered content generation platform at **Trameaz**.
-- ☁️ **Expertise:** AWS Cloud Architecture, CI/CD automation, and DevOps practices.
-- 🎓 **Education:** Bachelor of Engineering in Computer Software Engineering (92% Excellence).
-- 🚀 **Goal:** To innovate, collaborate, and build technology that makes a difference.
+- ⚡ Fun fact **I love cats.**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdullah-ademi-788767257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-ademi-788767257" height="30" width="40" /></a>
+</p>
 
-## 💻 My Tech Stack
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah1053&show_icons=true&locale=en&layout=compact" alt="abdullah1053" /></p>
 
-| **Frontend** | **Backend** | **Cloud & DevOps** | **Databases & Others** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=vue,js,html,css,bootstrap,tailwind" /> | <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,java" /> | <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite,vscode,postman" /> |
-
-</div>
-
----
-
-## 🚀 My Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-<h3 align="center">🤖 AI TRAMEAZ</h3>
-<div align="center">
-  <a href="http://eejaz.trameaz.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Project GIF"/>
-  </a>
-  <p>An AI-powered platform for SMBs to generate content and automate business processes. Built for scale and deployed on AWS.</p>
-  <div>
-    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-    <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/AI/ML-00D4FF?style=for-the-badge&logo=openai&logoColor=white" />
-  </div>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">🌐 TRAMEAZ PLATFORM</h3>
-<div align="center">
-  <a href="http://trameaz.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Project GIF"/>
-  </a>
-  <p>The core technology solutions hub, featuring a scalable architecture, secure coding practices, and seamless frontend/backend integration.</p>
-  <div>
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </div>
-</div>
-</td>
-
-</tr>
-</table>
-
----
-
-## 📊 My GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=husseinadq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=husseinadq&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak" />
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseinadq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=husseinadq&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150§ion=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah1053&show_icons=true&locale=en" alt="abdullah1053" /></p>
